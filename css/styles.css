@@ -13,7 +13,14 @@ img {
 header {
   background-color: #FFFCF5;
   padding-top: 10px;
-  padding: 10px 15px;
+  padding: 100px 0px 15px 0px;
+}
+
+.logo-pink {
+    position: absolute; 
+    top: 0px;
+    left: 575px;
+    right: 575px;
 }
 
 main {
@@ -87,5 +94,3 @@ footer {
 .rights {
   font-size: 9px;
 }
-
-
