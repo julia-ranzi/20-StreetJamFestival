@@ -17,14 +17,14 @@ header {
 }
 
 main {
-  background-color: #FFFCF5;
   padding: 10px 15px;
+  background-image: url(../img/background-main.svg);
 }
 
 h2 {
   font-family: 'Sigmar', cursive;
   font-size: 50px;
-  margin: 0;
+  margin: 10px 0;
 }
 
 p {
