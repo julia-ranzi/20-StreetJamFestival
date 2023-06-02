@@ -7,4 +7,85 @@ body {
 img {
   display: block;
   max-width: 100%;
+  margin: 20px 0;
 }
+
+header {
+  background-color: #FFFCF5;
+  padding-top: 10px;
+  padding: 10px 15px;
+}
+
+main {
+  background-color: #FFFCF5;
+  padding: 10px 15px;
+}
+
+h2 {
+  font-family: 'Sigmar', cursive;
+  font-size: 50px;
+  margin: 0;
+}
+
+p {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 16px;
+}
+
+.menu {
+  color: #FF84C0;
+}
+
+hr {
+  border: 0.5px solid #FF84C0;
+}
+
+a {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.streetjamfestival {
+  color: #7B9CD9;
+}
+
+.tags-graffiti-streetart {
+  color: #808778;
+}
+
+h3 {
+  font-family: 'Sigmar', cursive;
+  font-size: 38px;
+}
+
+.skate {
+  color: #FF84C0;
+}
+
+.musique {
+  color: #7B9CD9;
+}
+
+.street-food {
+  color: #808778;
+}
+
+.contact {
+  color: #FF84C0;
+}
+
+.logo-white {
+  max-width: 30%;
+}
+
+footer {
+  color:#FFFCF5;
+  background-color: #808778;
+  font-size: 12px;
+  padding: 1px 15px;
+}
+
+.rights {
+  font-size: 9px;
+}
+
+
