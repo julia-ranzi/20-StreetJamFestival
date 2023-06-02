@@ -1,7 +1,8 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: #ddd;
+  background-image: url(../img/background-body.svg);
+  background-attachment: fixed;
 }
 
 img {
