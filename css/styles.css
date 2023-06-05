@@ -27,6 +27,20 @@ h1 {
   padding-top: 15px;
 }
 
+h1 {
+  animation: fade-in-down 2s ease;
+}
+@keyframes fade-in-down {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 main {
   margin: 10px 15px 0 15px;
 }
@@ -54,6 +68,11 @@ a {
 .menu a {
   color: #FF84C0;
   font-size: 25px;
+}
+
+.menu a:hover {
+  color: #FFFCF5;
+  background-color: #FF84C0;
 }
 
 hr {
