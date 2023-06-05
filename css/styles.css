@@ -125,6 +125,15 @@ footer a {
 .planning {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
+}
+
+.hours {
+  font-size: 35px;
+  width: 50%;
+}
+
+.planning p {
+  width: 50%;
 }
