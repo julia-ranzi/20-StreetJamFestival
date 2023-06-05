@@ -41,7 +41,15 @@ p {
   font-size: 16px;
 }
 
+a {
+  text-decoration: none;
+}
+
 .menu {
+  color: #FF84C0;
+}
+
+.menu a {
   color: #FF84C0;
 }
 
@@ -92,6 +100,11 @@ footer {
   background-color: #808778;
   font-size: 12px;
   padding: 1px 15px;
+}
+
+footer a {
+  color: #FFFCF5;
+  text-decoration: underline;
 }
 
 .rights {
