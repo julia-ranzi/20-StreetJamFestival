@@ -96,3 +96,14 @@ footer {
 .rights {
   font-size: 9px;
 }
+
+.container-hours {
+  flex-wrap: wrap;
+}
+
+.planning {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
