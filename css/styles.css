@@ -6,7 +6,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   border: 2px solid #FF84C0;
-  padding-top: 125px;
+  padding-top: 105px;
 }
 
 img {
@@ -27,8 +27,7 @@ h1 {
 }
 
 main {
-  padding: 10px 15px;
-  margin-bottom: 20px;
+  margin: 10px 15px 0 15px;
 }
 
 h2 {
@@ -93,6 +92,11 @@ h3 {
 
 .contact {
   color: #FF84C0;
+  background-image: url(../img/contact-typo.svg);
+  background-size: 120%;
+  background-repeat: no-repeat;
+  background-position: 0 100px;
+  padding-bottom: 60px;
 }
 
 .logo-white {
@@ -116,8 +120,11 @@ footer a {
   font-size: 9px;
 }
 
-.container-hours {
+.container {
   flex-wrap: wrap;
+}
+
+.container-music {
   background-image: url(../img/m-music.svg);
   background-size: contain;
   background-repeat: no-repeat;
