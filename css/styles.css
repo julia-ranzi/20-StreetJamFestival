@@ -3,6 +3,7 @@ body {
   margin: auto;
   background-image: url(../img/background-body.svg);
   background-attachment: fixed;
+  border: 2px solid #FF84C0;
 }
 
 img {
