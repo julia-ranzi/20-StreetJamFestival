@@ -118,6 +118,9 @@ footer a {
 
 .container-hours {
   flex-wrap: wrap;
+  background-image: url(../img/m-music.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .planning {
